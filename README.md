@@ -18,3 +18,7 @@ Create a PWA (Progressive Web App) using the following
 - [ ] Use service workers so users can access app offline
 - [ ] offline data persistence by way of Firestore database
 - [ ] Extras: Firebase messaging and push notifications
+
+## About The Manifest File
+
+The web app manifest file is a single json file which is going to provide information about this app to the browser. Things like the app name or home icon for mobile devices. Remember PWA's can be installed onto a mobile device just like native apps can.
